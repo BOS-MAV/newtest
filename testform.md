@@ -1,4 +1,4 @@
 layout: page
 title: "A Sample Form"
-permalink: 
+permalink: https://bos-mav.github.io/newtest/
 this is just a test
